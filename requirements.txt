@@ -1,0 +1,9 @@
+azureml-sdk
+azure-mgmt-web
+numpy
+pandas
+scikit-learn
+streamlit
+requests
+
+
