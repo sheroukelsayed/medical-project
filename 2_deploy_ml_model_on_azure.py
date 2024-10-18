@@ -74,7 +74,7 @@ service.wait_for_deployment(show_output=True)
 
 scoring_uri = service.scoring_uri
 
-scoring_uri
+print(scoring_uri)
 
 
 

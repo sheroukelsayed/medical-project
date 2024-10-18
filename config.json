@@ -1,5 +1,8 @@
 {
     "subscription_id": "9303f735-b91a-4e1c-aff7-ece9bc2aeac3",
     "resource_group": "medical-project1",
-    "workspace_name": "daibetic-app"
+    "workspace_name": "daibetic-app",
+    "region" : "West US 2 ",
+    "app_service_plan": "your-app-service-plan-name",
+    "web_app_name": "MedicalApp"
 }
