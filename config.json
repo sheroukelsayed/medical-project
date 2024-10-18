@@ -4,5 +4,5 @@
     "workspace_name": "daibetic-app",
     "region" : "West US 2 ",
     "app_service_plan": "your-app-service-plan-name",
-    "web_app_name": "MedicalApp"
+    "web_app_name": "MedicalApp_v2"
 }
